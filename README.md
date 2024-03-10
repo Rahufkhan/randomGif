@@ -1,0 +1,3 @@
+# random-gifs
+
+Developed a dynamic web application using React.js that generates random GIFs based on user input. Integrated the GIPHY API to fetch a diverse range of GIFs, providing users with an engaging and entertaining experience. Implemented responsive design principles for seamless usage across various devices. Enhanced user interaction by incorporating features such as search functionality and category filtering. Leveraged React's component-based architecture to ensure code modularity and maintainability. Demonstrated proficiency in front-end development, API integration, and user experience design.
